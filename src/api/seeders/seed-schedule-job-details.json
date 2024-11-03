@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Donors Sync BBCS",
+    "description": "A job that syncs donors data from BBCS to Degree37"
+  },
+  {
+    "title": "Drives Sync Degree37 to BBCS",
+    "description": "A job that syncs Drives data from Degree37 to BBCS"
+  },
+  {
+    "title": "Sessions Sync Degree37 to BBCS",
+    "description": "A job that syncs Sessions data from Degree37 to BBCS"
+  },
+  {
+    "title": "BBCS Donors Donations Sync to Degree37",
+    "description": "A job that syncs Donors Donations from BBCS to Degree37"
+  }
+]

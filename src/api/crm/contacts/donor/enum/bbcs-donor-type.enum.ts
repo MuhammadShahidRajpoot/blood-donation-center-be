@@ -1,0 +1,6 @@
+export enum BBCSDonorType {
+  NOMATCH = 'NOMATCH',
+  EXACT = 'EXACT',
+  MULTIEXACT = 'MULTIEXACT',
+  LASTONLY = 'LASTONLY',
+}

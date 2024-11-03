@@ -1,0 +1,20 @@
+[
+  {
+    "application_code": "build_schedule_notes_details",
+    "code": "11",
+    "name": "note_category_id",
+    "display_name": "Note Category",
+    "display_order": "1",
+    "criteria_type": "Single_Value",
+    "created_by": "17"
+  },
+  {
+    "application_code": "build_schedule_notes_details",
+    "code": "11",
+    "name": "note_subcategory_id",
+    "display_name": "Note Subcategory",
+    "display_order": "2",
+    "criteria_type": "Single_Value",
+    "created_by": "17"
+  }
+]

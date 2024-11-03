@@ -1,0 +1,56 @@
+[
+  {
+    "application_code": "staff_schedule",
+    "code": "1",
+    "name": "schedule_start_date",
+    "display_name": "Schedule Start Date",
+    "display_order": "1",
+    "criteria_type": "Date_Range",
+    "created_by": "17"
+  },
+  {
+    "application_code": "staff_schedule",
+    "code": "1",
+    "name": "collection_operation_ids",
+    "display_name": "Collection Operation",
+    "display_order": "2",
+    "criteria_type": "Single_Value",
+    "created_by": "17"
+  },
+  {
+    "application_code": "staff_schedule",
+    "code": "1",
+    "name": "team_ids",
+    "display_name": "Team",
+    "display_order": "3",
+    "criteria_type": "Single_Value",
+    "created_by": "17"
+  },
+  {
+    "application_code": "staff_schedule",
+    "code": "1",
+    "name": "donor_center_ids",
+    "display_name": "Donor Center",
+    "display_order": "4",
+    "criteria_type": "Single_Value",
+    "created_by": "17"
+  },
+  {
+    "application_code": "staff_schedule",
+    "code": "1",
+    "name": "status",
+    "display_name": "Schedule Status",
+    "display_order": "5",
+    "criteria_type": "Single_Value",
+    "created_by": "17"
+  },
+  {
+    "application_code": "staff_schedule",
+    "code": "1",
+    "name": "staff_ids",
+    "display_name": "Staff Name",
+    "display_order": "6",
+    "criteria_type": "Single_Value",
+    "created_by": "17"
+  }
+]

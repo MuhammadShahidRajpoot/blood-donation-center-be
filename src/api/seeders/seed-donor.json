@@ -1,0 +1,103 @@
+{
+  "blood_groups": [
+    {
+      "name": "A positive",
+      "becs_name": "APOS",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "B positive",
+      "becs_name": "BPOS",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "AB negative",
+      "becs_name": "ABNG",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "AB positive",
+      "becs_name": "ABPS",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "A negative",
+      "becs_name": "ANEG",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "B negative",
+      "becs_name": "BNEG",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "O negative",
+      "becs_name": "ONEG",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "O positive",
+      "becs_name": "OPOS",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "Unknown",
+      "becs_name": "UNK",
+      "becs_system": "1",
+      "created_by": "1"
+    }
+  ],
+  "becs_races": [
+    {
+      "name": "African-American",
+      "becs_code": "A",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "Caucasian/Non-Hispan",
+      "becs_code": "C",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "Hispanic/Latino",
+      "becs_code": "H",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "Multi-Racial",
+      "becs_code": "M",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "Native American",
+      "becs_code": "N",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "Asian",
+      "becs_code": "S",
+      "becs_system": "1",
+      "created_by": "1"
+    },
+    {
+      "name": "Undeclared",
+      "becs_code": "U",
+      "becs_system": "1",
+      "created_by": "1"
+    }
+  ]
+}
+

@@ -1,0 +1,32 @@
+export enum FieldApprovalStatusEnum {
+  pending = 'Pending',
+  approved = 'Approved',
+  rejected = 'Rejected',
+}
+
+export enum FieldEnum {
+  date = 'date',
+  shift_start_time = 'shift_start_time',
+  shift_end_time = 'shift_end_time',
+  shift_break_start_time = 'shift_break_start_time',
+  shift_break_end_time = 'shift_break_end_time',
+  devices = 'devices',
+  vehicles = 'vehicles',
+  location = 'location',
+  recruiter = 'recruiter',
+  operation_status = 'operation_status',
+  owner = 'owner',
+  open_to_public = 'open_to_public',
+  certifications = 'certifications',
+  projections = 'projections',
+  marketing_items = 'marketing_items',
+  promotional_items = 'promotional_items',
+  procedure_type = 'procedure_type',
+  procedure_type_qty = 'procedure_type_qty',
+  product_yield = 'product_yield',
+  staff_setups = 'staff_setups',
+  slots = 'slots',
+  sms = 'sms',
+  email = 'email',
+  telerecruitment = 'telerecruitment',
+}

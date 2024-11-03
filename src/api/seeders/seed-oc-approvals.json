@@ -1,0 +1,75 @@
+[
+  {
+    "application_code": "oc_approvals",
+    "code": "9",
+    "name": "request_date",
+    "display_name": "Request Date Range",
+    "display_order": "1",
+    "criteria_type": "Date_Range",
+    "created_by": "3"
+  },
+  {
+    "application_code": "oc_approvals",
+    "code": "9",
+    "name": "operation_date",
+    "display_name": "Operation Date Range",
+    "display_order": "2",
+    "criteria_type": "Date_Range",
+    "created_by": "3"
+  },
+  {
+    "application_code": "oc_approvals",
+    "code": "9",
+    "name": "organizational_levels",
+    "display_name": "Orgaizational Level",
+    "display_order": "3",
+    "criteria_type": "Multi_Value",
+    "created_by": "3"
+  },
+
+  {
+    "application_code": "oc_approvals",
+    "code": "9",
+    "name": "operation_type",
+    "display_name": "Operation Type",
+    "display_order": "4",
+    "criteria_type": "Single_Value",
+    "created_by": "3"
+  },
+  {
+    "application_code": "oc_approvals",
+    "code": "9",
+    "name": "request_type",
+    "display_name": "Request Type",
+    "display_order": "5",
+    "criteria_type": "Single_Value",
+    "created_by": "3"
+  },
+  {
+    "application_code": "oc_approvals",
+    "code": "9",
+    "name": "requester_id",
+    "display_name": "Requestor",
+    "display_order": "6",
+    "criteria_type": "Single_Value",
+    "created_by": "3"
+  },
+  {
+    "application_code": "oc_approvals",
+    "code": "9",
+    "name": "managers_id",
+    "display_name": "Manager",
+    "display_order": "7",
+    "criteria_type": "Single_Value",
+    "created_by": "3"
+  },
+  {
+    "application_code": "oc_approvals",
+    "code": "9",
+    "name": "request_status",
+    "display_name": "Request Status",
+    "display_order": "8",
+    "criteria_type": "Single_Value",
+    "created_by": "3"
+  }
+]
